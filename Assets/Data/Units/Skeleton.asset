@@ -16,6 +16,6 @@ MonoBehaviour:
   attackRange: 1.3
   damage: 1
   armor: 1
-  health: 15
+  health: 10
   sightRange: 2
   size: 1
